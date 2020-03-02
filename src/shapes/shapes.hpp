@@ -7,7 +7,7 @@
 #include <iostream>
 #include <map>
 #include <cmath>
-#include "../src/mainCube.hpp"
+#include "../mainCube.hpp"
 
 #define NUM_OF_OBJECTS 20
 #define MAX_COLORS 20

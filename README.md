@@ -11,6 +11,8 @@ Osnovna ideja igrice je pomoć maloj deci u razvijanju logičkog razmišljanja.
 
 - Cilj je ubaciti sve oblike obojene različitim bojama, koji su raspoređeni oko drvene kocke, u odgovarajuća mesta na drvenoj kocki.
 
+![Gif igre](screenshots/rg.gif)
+
 ## :video_game: Komande
 
 - Pritiskom na <kbd>left</kbd> i <kbd>right</kbd> dugmiće bira se oblik za ubacivanje. Oblik koji je trenutno selektovan
@@ -31,10 +33,10 @@ Ako su dobro upareni oblici, oni nestaju i prelazi se na biranje sledećeg oblik
 
 ## :hammer: Instalacija
 
-- git clone https://github.com/MATF-RG18/RG95-shapes-and-colors.git
-- cd RG95-shapes-and-colors/
-- mkdir bin
-- cd bin
-- cmake ..
-- make
-- ./RG95-shapes-and-colors 
+- `git clone https://github.com/MATF-RG18/RG95-shapes-and-colors.git`
+- `cd RG95-shapes-and-colors/`
+- `mkdir bin`
+- `cd bin`
+- `cmake ..`
+- `make`
+- `./RG95-shapes-and-colors`

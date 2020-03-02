@@ -5,7 +5,7 @@
 #include <cmath>
 #include <map>
 #include "mainCube.hpp"
-#include "../shapes/shapes.hpp"
+#include "shapes/shapes.hpp"
 #include "firstScene.hpp"
 #include "texture.hpp"
 
